@@ -2,7 +2,7 @@ import json
 import random as r
 import matplotlib.pyplot as plt
 
-path = r"C:\Users\DANPRAV\source\Python\Mandelbrot\Mandelbrot.json"
+path = r"path\Mandelbrot.json"
 print("Loading...")
 
 data = []
